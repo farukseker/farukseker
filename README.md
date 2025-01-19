@@ -19,10 +19,7 @@
       </ul>
     </td>
     <td>
-      <img 
-        style="witdh:100%"
-        src="/F22.gif"
-        alt="F22 With Flare and Missile" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh6dDkwNW40dmcxZnEyeXZlMjFib3hyNjYyazFsMnphcWttYTEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26grzac9QUkaLTfZ6/giphy.gif" alt="F22 With Flare and Missile" width="100%" />
     </td>
   </tr>
 </table>
