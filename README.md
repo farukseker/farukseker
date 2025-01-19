@@ -3,23 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4ruk-seker&label=Profile%20views&color=0e75b6&style=flat" alt="f4ruk-seker" /> </p>
 
-- 🔭 I’m currently working on [vue-portfolio-page](https://github.com/F4ruk-seker/vue-portfolio-page)
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/F4ruk-seker/vue-portfolio-page">vue-portfolio-page</a></li>
+        <li>🌱 I’m currently learning <strong>Vue.js, Django</strong></li>
+        <li>🤝 I’m looking for help with <a href="https://github.com/F4ruk-seker/vue-portfolio-page">use TOTP with JWT</a></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://farukseker.com.tr/">https://farukseker.com.tr/</a></li>
+        <li>📝 I regularly write articles on <a href="https://farukseker.com.tr/blog">https://farukseker.com.tr/blog</a></li>
+        <li>💬 Ask me about <strong>Django</strong></li>
+        <li>📫 How to reach me <strong>f4rukseker@gmail.com</strong></li>
+        <li>📄 Know about my experiences <a href="https://farukseker.com.tr/projects">https://farukseker.com.tr/projects</a></li>
+        <li>⚡ Fun fact <strong>Video Editing</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img 
+        style="witdh:100%"
+        src="/F22.gif"
+        alt="F22 With Flare and Missile" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Vue.js, Django**
 
-- 🤝 I’m looking for help with [use TOTP with JWT](https://github.com/F4ruk-seker/vue-portfolio-page)
 
-- 👨‍💻 All of my projects are available at [https://farukseker.com.tr/](https://farukseker.com.tr/)
-
-- 📝 I regularly write articles on [https://farukseker.com.tr/blog](https://farukseker.com.tr/blog)
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **f4rukseker@gmail.com**
-
-- 📄 Know about my experiences [https://farukseker.com.tr/projects](https://farukseker.com.tr/projects)
-
-- ⚡ Fun fact **Video Editing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
