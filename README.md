@@ -19,7 +19,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh6dDkwNW40dmcxZnEyeXZlMjFib3hyNjYyazFsMnphcWttYTEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26grzac9QUkaLTfZ6/giphy.gif" alt="F22 With Flare and Missile" width="100%" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdoa3hzY3JuZWFnMnhtNTVzbHZrMmg2YTh5Y20zaXg5cmlwejJ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OT98vHeoR0LsQS5Y9i/giphy.gif" alt="F18 AB" width="100%" />
     </td>
   </tr>
 </table>
